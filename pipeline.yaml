@@ -26,7 +26,7 @@ objects:
         jenkinsfilePath: ${PIPELINE_SCRIPT}
     ## TODO: Add github webhook trigger
     triggers:
-      type: GitHub
+    - type: GitHub
       github: 
         secretReference:
           name: webhook-secret
