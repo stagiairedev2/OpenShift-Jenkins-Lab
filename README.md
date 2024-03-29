@@ -1,4 +1,4 @@
-testttttttttttttttt
+test
 # Lab: CI/CD on OpenShift with Jenkins
 Welcome! Today, you'll build a CI/CD pipeline on OpenShift to deploy a simple Spring-Boot application called `birthday-paradox` (https://en.wikipedia.org/wiki/Birthday_problem).
 
